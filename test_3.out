@@ -1,0 +1,34 @@
+Altair Feko - Solver (seq) Version 2023-4865 from 2023-08-17
+          Altair Feko - PREFEKO Version 2023-2564 from 2023-05-25 [FEK: default 191; used 191] BINARY
+          CADFEKO version 2023-4865 from 2023-08-18
+          Copyright (c) 1999-2014 Altair Engineering (Pty) Ltd
+          Copyright (c) 2014-2023 Altair Engineering Inc.
+          Intel(R) MKL version 2022.0.2 (build 20220804) on Intel(R) Advanced Vector Extensions 512 (Intel(R) AVX-512) with support of Intel(R) Deep Learning Boost (Intel(R) DL Boost), EVEX-encoded AES and Carry-Less Multiplication Quadword instructions, Intel(R) 64 architecture (1 thread)
+Computer: PC WIN64 EM64T MKL -- LAPTOP-CN78JV63
+          Microsoft Windows 10  (Build 19045), Version 10.0.19045 x64 (SP 0.0)
+          11th Gen Intel(R) Core(TM) i9-11900H @ 2.50GHz; GenuineIntel family 6 model 141 stepping 1 brand id 0
+          1 physical CPU with a total of 16 processors found (multi-core CPU with max. 8 cores per physical CPU)
+Threads:  OpenMP threading not used
+Date:     2023-12-26 15:21:20
+File:     test_3
+Memory:   Limited to physical available memory of 15.489 GByte
+          Installed memory 15.685 GByte, thereof free 8.170 GByte on LAPTOP-CN78JV63
+MD5 check:352F1630939471B56ECBB7AABACF946E
+MD5 total:E5EC1878CC1E0D3835C8CBCCE74B5289
+Licence:  Altair Simulation Products
+
+ NOTE    35127: You are running a sequential version of Altair Feko, but it was detected that your machine has more than one core. For best performance, it would be recommended to run the parallel Feko Solver
+ NOTE    35179: Compatible graphics card (GPU) found on this machine for possible hardware acceleration (your Feko license allows GPU usage). Please use the command line option --use-gpu to use or enable the checkbox in the GUI
+
+Spice Engine:  PollEx Spice Version 2023.1-01301739-6f27ebdc from 2023-01-30
+
+                    Linear segments are used
+
+          Length of the segments in m:         1.19917E-02
+
+ The segment number 1 has neither a node nor a connection
+ point. The segment cannot be taken into consideration.
+ The parameter R1 in the EG card should possibly be changed.
+ ERROR     180: A segment has neither a node nor a connection point
+
+Aborted: 2023-12-26 15:21:20
