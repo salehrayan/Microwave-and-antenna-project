@@ -1,0 +1,17 @@
+
+hpeesofsim (*) 591.update0.1 Sep 17 2023, MINT version 5
+    (64-bit windows built: Mon Sep 18, 2023 06:12:48 +0000)
+
+
+***** Simulation started at Sun Jan 21 13:52:55 2024
+      Running on host: "LAPTOP-CN78JV63"
+      In Directory: "C:\Users\ASUS\Desktop\Microwave and antenna poject\test_2_wrk\data"
+      Process ID: 11520
+
+
+SP SP1[1] <test_2_lib:cell_1:schematic>   freq=(0 Hz->2 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     0.44 seconds.
+
